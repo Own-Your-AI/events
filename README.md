@@ -23,9 +23,6 @@
 
 ---
 
-> [!NOTE]
-> AI is becoming infrastructure. The question is no longer *if* you use it — it's *who controls it, who pays for it, and who sees your data.*
-
 ## Why are we doing this?
 
 We believe AI should be **owned, not rented**.
