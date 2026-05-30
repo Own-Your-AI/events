@@ -37,7 +37,7 @@ We believe AI should be **owned, not rented**.
 > [!TIP]
 > If you care about **privacy**, **control**, and **budget** you're in the right room.
 
-** Audience**
+**Audience**
 
 - LLM Engineers and active builders
 - Platform and Infrastructure Engineers running models in production
@@ -78,11 +78,6 @@ A group of engineers and architects from the Vienna AI scene — builders who ca
 | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="images/andreas-burner.jpg" alt="Andreas Burner" width="120" /> | **Andreas Burner** — Management Advisor for AI & Cloud Strategy, Board Advisor, and Court-Certified Expert. 25+ years in global enterprise technology, advising on AI strategy, cloud transformation, complex systems, and high-performance team culture. [BurnerNet.com](https://burnernet.com)         |
 | <img src="images/andreas-petersson.jpg" alt="Andreas Petersson" width="120" /> | **Andreas Petersson** — Technology Advisor and Founder of [Capacity](https://capacity.at). Two decades of building and auditing decentralized, security-critical systems for enterprises and the public sector. Focus areas: protocol design, IT security, technical due diligence, and sovereign AI infrastructure. |
-
-## What's next?
-
-> [!TIP]
-> Join the community and we'll send you the invite to the first session, including the agenda and speaker line-up.
 
 <div align="center">
 
