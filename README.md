@@ -1,12 +1,25 @@
 <div align="center">
 
-# Own Your AI
+<img src="images/logo.png" alt="Own Your AI" width="200" />
 
 **An Engineering Group for Sovereign, Efficient AI**
 
 [OwnYourAI.eu](https://OwnYourAI.eu) · [GitHub](https://github.com/Own-Your-AI/events) · Vienna · In-Person
 
 </div>
+
+---
+
+> [!IMPORTANT]
+> ## Upcoming Event — Register Now
+>
+> **Own Your AI — Hardware, Models, Tuning: How to Actually Make Local LLMs Productive**
+>
+> 📅 **24 June 2026** · 🕕 **18:00** · 📍 4future, Graben 17/10, 1010 Wien
+>
+> Seats are limited and in-person only.
+>
+> **[Register here → luma.com/3yy6gwic](https://luma.com/3yy6gwic)**
 
 ---
 
