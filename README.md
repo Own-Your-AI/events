@@ -4,22 +4,36 @@
 
 **An Engineering Group for Sovereign, Efficient AI**
 
-[OwnYourAI.eu](https://OwnYourAI.eu) · [GitHub](https://github.com/Own-Your-AI/events) · Vienna · In-Person
+[OwnYourAI.eu](https://OwnYourAI.eu) · [GitHub](https://github.com/Own-Your-AI/events) · [Discord](https://discord.gg/vcKfethRT)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ## Upcoming Event — Register Now
+> ## Upcoming Events — Register Now
 >
-> **Own Your AI — Hardware, Models, Tuning: How to Actually Make Local LLMs Productive**
+> ### Own Your AI — Event #2
 >
-> 📅 **24 June 2026** · 🕕 **18:00** · 📍 4future, Graben 17/10, 1010 Wien
+> 📅 **22 July 2026**<br>
+> 🕕 **18:00**<br>
+> 📍 **Vienna**
+>
+> **[Register here → luma.com/bx80ldhh](https://luma.com/bx80ldhh)**
+>
+> ---
+>
+> ### Own Your AI — Event #3
+>
+> 📅 **26 August 2026**<br>
+> 🕕 **18:00**<br>
+> 📍 **Vienna**
+>
+> **[Register here → luma.com/cnxc9gnx](https://luma.com/cnxc9gnx)**
+>
+> ---
 >
 > Seats are limited and in-person only.
->
-> **[Register here → luma.com/3yy6gwic](https://luma.com/3yy6gwic)**
 
 ---
 
@@ -39,11 +53,9 @@ We believe AI should be **owned, not rented**.
 
 **Audience**
 
-- LLM Engineers and active builders
-- Platform and Infrastructure Engineers running models in production
-- Architects designing AI-native systems
-- Engineering Leaders and Decision Makers with a need for local or hybrid LLMs
-- Compliance, Legal, and Security folks navigating the EU AI landscape
+- LLM- und Agentic-Engineers
+- AI-Platform-Engineers
+- Hands-on Tech-Leaders
 
 ## What do you get out of it?
 
