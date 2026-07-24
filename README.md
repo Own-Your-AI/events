@@ -13,16 +13,6 @@
 > [!IMPORTANT]
 > ## Upcoming Events — Register Now
 >
-> ### Own Your AI — Event #2
->
-> 📅 **22 July 2026**<br>
-> 🕕 **18:00**<br>
-> 📍 **Vienna**
->
-> **[Register here → luma.com/bx80ldhh](https://luma.com/bx80ldhh)**
->
-> ---
->
 > ### Own Your AI — Event #3
 >
 > 📅 **26 August 2026**<br>
