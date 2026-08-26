@@ -4,7 +4,7 @@
 
 **An Engineering Group for Sovereign, Efficient AI**
 
-[OwnYourAI.eu](https://OwnYourAI.eu) · [GitHub](https://github.com/Own-Your-AI/events) · [Discord](https://discord.gg/vcKfethRT)
+[OwnYourAI.eu](https://OwnYourAI.eu) · [GitHub](https://github.com/Own-Your-AI/events) · [Discord](https://discord.gg/J2XzvVND66)
 
 </div>
 
