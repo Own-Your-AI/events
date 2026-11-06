@@ -19,6 +19,10 @@
 
 ---
 
+## Latest speaker materials
+
+- 20 October 2026: [Local LLMs Without Being a Dev](20261020/andreas-langes-local-llms/README.md) by Andreas Langes.
+
 ## Why are we doing this?
 
 We believe AI should be **owned, not rented**.
